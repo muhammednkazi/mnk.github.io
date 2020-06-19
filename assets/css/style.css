@@ -246,7 +246,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 100vh;
+  height: 69vh;
   background: url("../img/mnk.png") top right no-repeat;
   background-size: absolute;
   position: relative;
